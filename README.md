@@ -6,7 +6,7 @@
 <img                src="https://camo.githubusercontent.com/f99b4a403b299850c8302ba7e834da3b0516cf0d3cf80e9260226c06dfad0e10/68747470733a2f2f692e6962622e636f2f514a5a646d70762f584f73582e676966" width="90em" />
 
 - 💻 Back-end developer
-- 🌱 I'm currently learning NodeJs
+- 🌱 I'm currently learning NodeJs , TypeScript and Express
 - 📫 How to reach me: alexg.marinhoo@gmail.com
 
 <div align="center">
